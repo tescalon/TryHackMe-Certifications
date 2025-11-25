@@ -1,4 +1,7 @@
 # TryHackMe-Certifications
+[![Statut du Projet](https://img.shields.io/badge/Statut-Terminé-orange)](./documentation/objectifs.md)
+[![Focus Technique](https://img.shields.io/badge/Focus-Cybers%C3%A9curit%C3%A9%20Avanc%C3%A9-red)](./documentation/rapport_technique.md)
+
 Repository regroupant mes apprentissages théoriques et pratiques réalisés sur TryHackMe : PreSecurity, Cyber Security 101, Security Engineer, DevSecOps et SOC Level 1 et d'autres modules complémentaires. Compétences en sécurité offensive, défensive, ingénierie et analyse SOC.
 
 <p align="center">
