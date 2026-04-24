@@ -16,8 +16,6 @@ Dans cette section, j'ai découvert les fondamentaux pour démarrer dans la cybe
 - **Sécurité offensive et défensive** : initiation aux méthodologies d'attaque et de défense.  
 - **Compétences de recherche** : techniques pour identifier, analyser et comprendre les vulnérabilités et menaces.  
 
-Ces bases m'ont permis de mieux appréhender la suite du parcours et de comprendre les rôles dans le domaine.
-
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/257f4b5b-751f-43cc-9415-2b87279c1bc6" />
 
@@ -27,7 +25,7 @@ J'ai approfondi mes connaissances Linux acquises en PreSecurity :
 - **Linux Fundamentals Part 1 à 3** : gestion des fichiers, utilisateurs, permissions, processus et commandes essentielles.  
 - **Travaux pratiques** : manipulation de la CLI, exécution de scripts simples et navigation dans le système.
 
-Ces labs m'ont préparé à utiliser Linux pour les exercices offensifs et défensifs plus avancés.
+Les parties 1 à 3 forment une vraie progression; à la fin, j'écrivais mes premiers scripts bash pour automatiser des tâches de scan.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/15a18891-4cdf-48d6-8dba-9feecdb1ea67" />
@@ -38,7 +36,7 @@ Cette section m'a permis de comprendre l'écosystème Windows et Active Director
 - **Windows Fundamentals 1 à 3** : architecture du système, gestion des comptes, permissions, processus et sécurité.  
 - **Active Directory Basics** : organisation des utilisateurs, groupes, politiques de sécurité et gestion des ressources réseau.
 
-Ces compétences sont essentielles pour l'analyse de sécurité et les tests d'intrusion dans les environnements d'entreprise.
+Active Directory m'a particulièrement marqué; comprendre comment les GPO et les groupes fonctionnent est indispensable pour saisir 80% des attaques en environnement Windows.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/fce22397-c4dd-4912-946c-788b4fef6bfc" />
@@ -49,8 +47,6 @@ J'ai appris à utiliser efficacement les interfaces en ligne de commande :
 - **Windows Command Line et PowerShell** : automatisation de tâches, gestion du système et interrogation de fichiers journaux.  
 - **Linux Shells** : manipulation des fichiers, scripts et outils de sécurité.  
 
-Ces compétences m'ont permis de mieux interagir avec les systèmes lors des exercices pratiques.
-
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/10dcf9f5-fb60-42aa-a187-773df41cb5a8" />
 
@@ -60,7 +56,7 @@ J'ai consolidé mes connaissances sur le fonctionnement des réseaux :
 - **Concepts et protocoles** : TCP/IP, DNS, HTTP/HTTPS, LAN/WAN.  
 - **Outils d'analyse** : Wireshark pour capturer et analyser le trafic réseau, Tcpdump pour la ligne de commande, et Nmap pour la découverte et l'analyse des ports.  
 
-Ces labs m'ont permis de comprendre le trafic réseau et de détecter des anomalies potentielles.
+C'est sur ce module que j'ai capturé mes premiers paquets HTTP en clair avec Wireshark et compris concrètement pourquoi HTTPS est non-négociable.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/7296a9e2-3cd1-4894-a46e-b0a6e1843f47" />
@@ -73,7 +69,7 @@ J'ai découvert les bases de la sécurité des données :
 - **Hashing Basics** : création et vérification de hachages pour l'intégrité des données.  
 - **John the Ripper** : introduction au craquage de mots de passe pour comprendre la résistance des systèmes.
 
-Ces connaissances m'ont donné un aperçu des mécanismes de sécurité essentiels dans la protection des données.
+John the Ripper sur des hashes MD5 m'a convaincu plus efficacement qu'un cours entier de ne jamais stocker des mots de passe sans salage.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/c5ac3fe2-aa81-4b77-9803-c60ffb778f8f" />
@@ -84,7 +80,7 @@ J'ai commencé à explorer les concepts d'exploitation :
 - **Exercices CVE et Metasploit** : exploitation de vulnérabilités réelles, utilisation de Meterpreter pour l'accès aux systèmes.  
 - **Blue Room** : exercices pratiques pour comprendre les vecteurs d'attaque et les protections possibles.
 
-Ces labs m'ont permis de me familiariser avec les outils d'attaque dans un environnement contrôlé.
+Exploiter une CVE réelle avec Metasploit dans un environnement contrôlé; c'est le moment où j'ai réalisé à quel point patcher rapidement n'est pas optionnel.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/95e915e0-de45-48fc-8296-0976d1c60b83" />
@@ -96,7 +92,7 @@ J'ai appris les bases de la sécurité des applications web :
 - **JavaScript Essentials & SQL Fundamentals** : compréhension des langages et des injections.  
 - **Burp Suite & OWASP Top 10** : identification et exploitation des vulnérabilités web les plus fréquentes.
 
-Ces connaissances sont fondamentales pour la cybersécurité offensive et la sécurisation des applications.
+Burp Suite + OWASP Top 10 ensemble : j'ai passé plus de temps que prévu sur les injections SQL et les failles d'authentification tellement c'était parlant en pratique.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/c253a440-d865-45cc-8463-1f75a8670838" />
@@ -108,8 +104,6 @@ J'ai utilisé des outils de penetration testing :
 - **Gobuster** : recherche de fichiers et répertoires cachés.  
 - **SQLMap & Shells Overview** : tests d'injection SQL et exploration des shells.
 
-Ces outils m'ont permis d'expérimenter des scénarios réalistes d'attaque.
-
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/4376a6e2-a242-40d4-8976-a0ea38c984ee" />
 
@@ -119,7 +113,7 @@ J'ai exploré la protection et la réponse aux incidents :
 - **SOC Fundamentals & Incident Response** : surveillance, analyse et réponse aux incidents.  
 - **Digital Forensics Fundamentals & Logs** : récupération de preuves, analyse des fichiers journaux et compréhension des événements critiques.
 
-Ces bases sont essentielles pour devenir un analyste SOC compétent.
+C'est ce module qui a confirmé mon orientation vers la défense et le SOC plutôt que le pentest.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/4b57f273-11cc-4f94-b8ca-fef60d966857" />
@@ -137,8 +131,6 @@ J'ai découvert les solutions défensives utilisées en entreprise :
 J'ai pratiqué avec des outils spécifiques pour l'analyse et la réponse aux incidents :  
 
 - **CyberChef, CAPA, REMnux, FlareVM** : manipulation de fichiers suspects, détection de malwares, et automatisation d'analyses.
-
-Ces outils m'ont permis d'approfondir mes compétences pratiques en défense.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/80d36a5e-12a4-44ab-82a2-7b0b5896cbe6" />
