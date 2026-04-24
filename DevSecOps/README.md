@@ -14,7 +14,7 @@ J'ai complété le module **DevSecOps** sur TryHackMe pour acquérir les compét
 - **Cycle de vie du développement logiciel (SDLC)** : compréhension du processus classique de développement et de l’importance d’intégrer la sécurité à chaque étape.  
 - **Cycle de vie sécurisé du développement (SSDLC)** : application de politiques, revues de code et tests de sécurité automatisés.  
 
-J'ai appris à intégrer la sécurité dès la conception des applications pour réduire la dette technique et limiter les risques.
+Le shift-left en pratique : détecter une injection SQL au moment du commit plutôt qu'en production, ça change tout en termes de coût et de délai de correction.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/32c8fcf4-a456-49f5-ab2c-8f45210e0a61" />
@@ -35,7 +35,7 @@ Ces labs m'ont permis de comprendre comment sécuriser un pipeline automatisé e
 - **Analyse dynamique (DAST)** : identification de vulnérabilités dans les applications en exécution.  
 - **Mother’s Secret** : laboratoire pratique appliquant ces contrôles dans un environnement réel.  
 
-J'ai développé une expertise pour identifier et corriger les failles avant qu'elles n'atteignent la production.
+Le lab Mother's Secret m'a montré comment une dépendance compromise peut contaminer tout un pipeline — OWASP Dependency-Check est devenu un réflexe.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/e4c82b17-3923-4721-b8f9-6c741cc699eb" />
@@ -47,7 +47,7 @@ J'ai développé une expertise pour identifier et corriger les failles avant qu'
 - **Vulnérabilités des conteneurs** : détection, analyse et remédiation.  
 - **Durcissement des conteneurs** : réduction de la surface d’attaque et renforcement des configurations système.  
 
-J'ai appris à sécuriser l’ensemble du cycle de vie des conteneurs et à intégrer ces pratiques dans un pipeline CI/CD.
+Kubernetes RBAC et les pod security policies sont les points qui m'ont demandé le plus de temps — l'orchestration ajoute une surface d'attaque qu'on sous-estime facilement.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/9c584f6d-e3ac-4aa8-bd44-8ce0583afb1c" />
@@ -57,7 +57,7 @@ J'ai appris à sécuriser l’ensemble du cycle de vie des conteneurs et à int�
 - **IaC sur site (On-Premises IaC)** : sécurisation des playbooks et scripts locaux (Ansible, Terraform, etc.).  
 - **IaC dans le Cloud** : bonnes pratiques pour AWS, GCP, Azure : gestion des secrets, contrôle d’accès, chiffrement et audit.  
 
-J'ai compris comment appliquer les mêmes contrôles de sécurité à l’infrastructure que pour les applications, en automatisant la gouvernance.
+Terraform et Ansible vus sous l'angle sécurité : un playbook mal configuré peut ouvrir des ports ou créer des comptes avec trop de droits aussi sûrement qu'un mauvais code applicatif.
 
 ---
 
