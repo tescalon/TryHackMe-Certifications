@@ -36,8 +36,8 @@ _Je considère les contenus TryHackMe excellents, c’est pourquoi j’ai choisi
 
 ## Modules
 
-| Module | Description | Statut |
-|--------|--------------|--------|
+| Module | Description |
+|--------|--------------|
 |  [PreSecurity](./PreSecurity/README.md) | Fondamentaux des systèmes, réseaux et de la sécurité. |
 |  [CyberSecurity 101](./CyberSecurity-101/README.md) | Introduction à la cybersécurité offensive et défensive. |
 |  [Security Engineer](./Security-Engineer/README.md) | Ingénierie de la sécurité, durcissement et réponse aux incidents. |
