@@ -30,7 +30,7 @@ Cette section m'a permis de comprendre comment les ordinateurs communiquent entr
 - **Paquets et trames** : apprentissage de la structure des données sur un réseau.  
 - **Extension du réseau** : notions de routeurs, switches et connectivité entre réseaux.
 
-Grâce aux mini-labs, j'ai pu manipuler des réseaux virtuels et observer le trafic réel pour mieux comprendre les concepts.
+Les mini-labs m'ont forcé à visualiser concrètement ce qui se passe quand un paquet traverse un switch, beaucoup plus parlant que la théorie seule.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/86785860-745e-4d5a-a9fd-ab4857ebaaa9" />
@@ -43,7 +43,7 @@ J'ai exploré le fonctionnement des services web et de l'infrastructure Internet
 - **Comment les sites web fonctionnent** : architecture côté serveur et client.  
 - **Mise en pratique** : intégration des connaissances pour comprendre le parcours complet d'une requête web.
 
-Cette section m'a permis de comprendre les bases derrière tout site web et les communications sécurisées.
+Comprendre DNS et HTTP en détail m'a directement aidé dans les modules d'attaque web qui ont suivi, difficile d'exploiter ce qu'on ne comprend pas vraiment.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/9f4fb910-8439-4701-a24a-f57e1730d7e5" />
@@ -65,7 +65,7 @@ Cette section m'a introduit à l'environnement Windows :
 - **Windows Fundamentals 1 à 3** : exploration de l'architecture du système, gestion des comptes, permissions et processus.  
 - **Analyse basique** : observation du comportement des programmes et des fichiers à travers le système.  
 
-J'ai appris à utiliser des outils intégrés pour comprendre le fonctionnement des systèmes Windows et préparer la transition vers la cybersécurité offensive et défensive.
+Task Manager, Event Viewer, les comptes locaux et leurs permissions; des outils que j'utilisais sans vraiment comprendre ce qui se passait dessous.
 
 ---
 
