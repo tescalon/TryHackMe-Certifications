@@ -16,7 +16,7 @@ Dans cette section, j'ai découvert les bases essentielles de la cybersécurité
 - **Sécurité défensive** : introduction aux concepts de protection et de détection des menaces.  
 - **Carrières en cybersécurité** : aperçu des différentes spécialisations, métiers et compétences recherchées.
 
-Ces leçons m'ont donné une vue d'ensemble des rôles possibles et de ce que signifie travailler dans ce domaine.
+C'est ici que j'ai compris la distinction offensive/défensive, et que j'ai commencé à me diriger vers la défense/GRC plutôt que le pentest.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/ff56bc04-13e1-4ac6-8ada-f4667cf32f36" />
