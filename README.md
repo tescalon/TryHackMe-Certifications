@@ -13,7 +13,8 @@ Repository regroupant mes apprentissages théoriques et pratiques réalisés sur
 
 ## Objectif
 
-Développer une compréhension complète de la cybersécurité moderne — des bases techniques jusqu’à la gestion des risques et à l’ingénierie sécurisée — à travers des **labs pratiques** et des **cas d’étude concrets**. 
+Mon point de départ : déployer et maîtriser Wazuh en contexte d'entreprise. Pour y arriver proprement, j'ai décidé de reprendre les fondations depuis le début 
+plutôt que de sauter directement dans le bain.
 
 J’ai entrepris ce projet d’auto-formation pour approfondir mes connaissances sur les SIEM, en particulier Wazuh, afin de le déployer et le maîtriser en contexte d’entreprise.
 Ce projet m’a également permis de consolider les fondations essentielles avant d’aller plus loin dans l’analyse, la détection et la gouvernance de la sécurité.
