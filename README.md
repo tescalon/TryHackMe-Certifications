@@ -64,11 +64,11 @@ Au total, plus de **+220 heures de formation pratique et théorique** réalisée
 
 ## Certifications TryHackMe
 
-- ✅ PreSecurity  
-- ✅ Cyber Security 101  
-- ✅ Security Engineer  
-- ✅ DevSecOps  
-- ✅ SOC Level 1  
+- PreSecurity  
+- Cyber Security 101  
+- Security Engineer  
+- DevSecOps  
+- SOC Level 1  
 
 *(Les certificats sont disponibles dans le dossier `/certifications`)*
 
@@ -76,7 +76,7 @@ Au total, plus de **+220 heures de formation pratique et théorique** réalisée
 <img src="https://github.com/tescalon/tryhackme-certifications/blob/7e591fa1a6f750ff56f363d673f156088b87a346/L%C3%A9gende%20badge%20THM.png" alt="Légende badge THM" width="400"/>
 
 
-*À la fin de mon parcours sur TryHackMe, je me suis classé dans le **top 6 % mondial**, soit **sur 1,3 million d’utilisateurs actifs**.*
+*À la fin de mon parcours sur TryHackMe, je me suis classé dans le **top 1 % mondial**, **11735ième** soit **sur 1,3 million d’utilisateurs actifs**.*
 
 ---
 
