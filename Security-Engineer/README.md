@@ -15,7 +15,7 @@ J'ai complété le module **Security Engineer** sur TryHackMe pour acquérir les
 - **Introduction à la cryptographie** : rappels sur chiffrement symétrique/asymétrique, certificats, PKI et signatures.  
 - **Gestion des identités et des accès (IAM)** : gestion des identités, authentification, autorisation, MFA et lifecycle des comptes.
 
-Ces éléments posent les bases pour concevoir des systèmes sécurisés et établir des politiques d'accès robustes.
+Le principe du moindre privilège et la défense en profondeur reviennent dans absolument chaque section qui suit — autant les avoir bien en tête dès le début.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/c69e7968-db62-4cd3-91f2-739a18c55675" />
@@ -26,7 +26,7 @@ Ces éléments posent les bases pour concevoir des systèmes sécurisés et éta
 - **Gestion des risques** : identification, évaluation et traitement des risques (accept, mitigate, transfer, avoid).  
 - **Gestion des vulnérabilités** : cycle de vie des vulnérabilités : discovery, triage, patching, exceptions et reporting.
 
-J'ai appris à traduire les risques techniques en décisions business et à structurer des programmes de remédiation.
+Ce module m'a forcé à penser au-delà du technique : une vulnérabilité critique sur un système non-critique n'a pas la même priorité qu'une vulnérabilité moyenne sur un asset exposé. C'est basique, mais ça change vraiment l'approche.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/cb3f5a2a-7796-48c9-80f7-b719edd9bdd7" />
@@ -42,7 +42,7 @@ J'ai appris à traduire les risques techniques en décisions business et à stru
 - **Introduction à la sécurité Cloud** : IAM cloud, responsabilité partagée, logging et encryption.  
 - **Audit et supervision** : logs critiques, corrélation et indicateurs de sécurité.  
 
-Ces labs m'ont permis d'appliquer des mesures concrètes de durcissement et de concevoir des architectures résilientes.
+Le durcissement Active Directory a été le plus exigeant — délégations, protection des DC, prévention des Kerberoasting... c'est dense mais utile.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/7663ff5d-418d-49e9-9e4a-4d972365b7c7" />
@@ -55,7 +55,7 @@ Ces labs m'ont permis d'appliquer des mesures concrètes de durcissement et de c
 - **Introduction au DevSecOps** : automatisation, secret management et sécurité des pipelines.      
 - Labs spécifiques (Mother's Secret, Traverse) : exercices pratiques sur sécurisation et test d'environnements.
 
-J'ai développé une approche pragmatique pour réduire la dette de sécurité applicative et automatiser la gouvernance du code.
+Ce module m'a forcé à penser au-delà du technique : une vulnérabilité critique sur un système non-critique n'a pas la même priorité qu'une vulnérabilité moyenne sur un asset exposé. C'est basique, mais ça change vraiment l'approche.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/3b21e5c8-5605-48bb-a1df-48ce554ecc5f" />
@@ -66,7 +66,7 @@ J'ai développé une approche pragmatique pour réduire la dette de sécurité a
 - **Premier intervenant** : containment, acquisition d’artefacts, escalade.  
 - **Gestion de crise cyber** : coordination inter-équipes, communication et plan d’action.  
 
-J'ai appris à construire des runbooks opérationnels et à exécuter des premières étapes d'investigation et de confinement.
+Les simulations IR m'ont appris une chose importante : dans les premières minutes d'un incident, la priorité c'est le confinement, pas l'investigation. Collecter des preuves sur un système toujours compromis ne sert à rien.
 
 ---
 
