@@ -34,15 +34,15 @@ _Je considère les contenus TryHackMe excellents, c’est pourquoi j’ai choisi
 
 ---
 
-## Modules et progression
+## Modules
 
 | Module | Description | Statut |
 |--------|--------------|--------|
-|  [PreSecurity](./PreSecurity/README.md) | Fondamentaux des systèmes, réseaux et de la sécurité. | ✅ |
-|  [CyberSecurity 101](./CyberSecurity-101/README.md) | Introduction à la cybersécurité offensive et défensive. | ✅ |
-|  [Security Engineer](./Security-Engineer/README.md) | Ingénierie de la sécurité, durcissement et réponse aux incidents. | ✅ |
-|  [DevSecOps](./DevSecOps/README.md) | Intégration de la sécurité dans le développement et CI/CD. | ✅ |
-|  [SOC Level 1](./SOC-Level-1/README.md) | Détection, analyse et investigation d’incidents. | ✅ |
+|  [PreSecurity](./PreSecurity/README.md) | Fondamentaux des systèmes, réseaux et de la sécurité. |
+|  [CyberSecurity 101](./CyberSecurity-101/README.md) | Introduction à la cybersécurité offensive et défensive. |
+|  [Security Engineer](./Security-Engineer/README.md) | Ingénierie de la sécurité, durcissement et réponse aux incidents. |
+|  [DevSecOps](./DevSecOps/README.md) | Intégration de la sécurité dans le développement et CI/CD. |
+|  [SOC Level 1](./SOC-Level-1/README.md) | Détection, analyse et investigation d’incidents. |
 
 J’ai également complété plusieurs **modules complémentaires** pour consolider mes compétences (Sécurité du réseau, Surveillance de la sécurité des terminaux, Authentification, Défendre l'IA, etc).  
 Au total, plus de **+220 heures de formation pratique et théorique** réalisées sur TryHackMe, tous modules mélangés.
