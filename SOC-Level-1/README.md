@@ -14,7 +14,7 @@ J'ai complété le module **SOC Level 1** sur TryHackMe pour acquérir les comp�
 - **Fonctionnement du SOC dans la Blue Team** : responsabilités quotidiennes.  
 - **Vecteurs d’attaque humains et systèmes** : identification et impact.  
 
-Ces éléments posent les bases pour comprendre les responsabilités quotidiennes d’un analyste SOC.
+Ce module m'a aidé à comprendre pourquoi un analyste SOC L1 ne "répond" pas aux incidents — il triage, documente et escalade. La nuance est importante.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/f73bd35d-d296-47a8-838d-61a2368f280e" />
@@ -25,7 +25,7 @@ Ces éléments posent les bases pour comprendre les responsabilités quotidienne
 - **KPIs et objectifs SOC** : compréhension des KPIs, SLA et indicateurs de performance.  
 - Scénarios pratiques : phishing simulations pour l'analyse et le reporting.
 
-J'ai appris à gérer les alertes de manière efficace et à structurer le reporting SOC.
+Les workbooks et lookups m'ont montré comment enrichir une alerte brute avec du contexte — une IP interne qui communique vers un domaine enregistré il y a 48h, ça change l'évaluation du risque.
 
 ---
 <img width="170" alt="image" src="https://tryhackme-images.s3.eu-west-1.amazonaws.com/modules/core-soc-solutions-1761836963983.svg" />
@@ -35,7 +35,7 @@ J'ai appris à gérer les alertes de manière efficace et à structurer le repor
 - **Introduction aux SIEM / Splunk / Elastic Stack** : ingestion de logs, recherche, corrélation et alerting.  
 - **Introduction aux SOAR** : automatisation des tâches SOC et orchestration des réponses aux incidents.
 
-Ces labs m'ont permis de me familiariser avec les outils principaux utilisés en SOC pour détecter et répondre aux incidents.
+Splunk et ELK côte à côte : les deux font le même travail mais avec une logique de requête différente. Pratiquer les deux dès le départ évite d'être perdu en arrivant dans une entreprise qui utilise l'un ou l'autre.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/786aacec-fa50-4ac9-acd4-f365b3c6d09c" />
@@ -45,7 +45,7 @@ Ces labs m'ont permis de me familiariser avec les outils principaux utilisés en
 - **Cyber Kill Chain / Unified Kill Chain** : identification des phases d’attaque et points d’interruption.  
 - **MITRE ATT&CK** : mapping des techniques et tactiques, création de règles et playbooks.
 
-Ces frameworks m'ont aidé à structurer mes analyses et mes stratégies de détection.
+MITRE ATT&CK est le framework qui m'a le plus apporté concrètement : pouvoir mapper une alerte sur une technique T1xxx permet de savoir immédiatement quelles autres techniques sont susceptibles de suivre.
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/c916669a-04b1-4fe7-85c4-0d701d7d0016" />
